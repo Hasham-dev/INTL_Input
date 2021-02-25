@@ -3,7 +3,7 @@ import { PhoneInput } from './components/input';
 
 function App() {
   return (
-    <div className="App">
+    <div className="container">
       <PhoneInput />
     </div>
   );
